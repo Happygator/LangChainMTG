@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot Web Interface</title>
+    <style>
+        .chat-container {
+            max-width: 500px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .message {
+            margin-bottom: 10px;
+        }
+
+        .user-message {
+            color: #000;
+        }
+
+        .bot-message {
+            color: #3a8dbc;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#chat-form').on('submit', function(event) {
+                event.preventDefault();
+                var userMessage = $('#user-message').val();
+                $('#user-message').val('');
+
+                // Add loading indicator or user message to the chat UI
+                $('#chat-container').append('<div class="message user-message">' + userMessage + '</div>');
+
+                // Send user message to the server for processing
+                $.ajax({
+                    url: '/chat',
+                    type: 'POST',
+                    data: {user_message: userMessage},
+                    success: function(response) {
+                        var botResponse = response.bot_response;
+
+                        // Add bot response to the chat UI
+                        $('#chat-container').append('<div class="message bot-message">' + botResponse + '</div>');
+
+                        // Scroll to the bottom of the chat container
+                        $('#chat-container').scrollTop($('#chat-container')[0].scrollHeight);
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="chat-container" id="chat-container">
+        <!-- Chat messages will be dynamically added here -->
+    </div>
+
+    <form id="chat-form" method="POST" action="/chat">
+        <input type="text" id="user-message" placeholder="Enter your message" required autofocus>
+        <button type="submit">Send</button>
+    </form>
+</body>
+</html>
