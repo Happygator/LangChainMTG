@@ -1,5 +1,6 @@
 import requests
 import csv
+import string
 # import pandas
 import get_all_card_names
 cardFile = open("cards.csv", 'w')
@@ -30,10 +31,10 @@ def flat(card_info):
     if 'card_faces' in card_info:
         for i,face in enumerate(card_info['card_faces']):
             for key in importantKeys:
-                row[key+str(i)] = face[key]
+                row[key+str(i)] = remove_unprintable(face[key])
     else:
         for key in importantKeys:
-            row[key+'0'] = card_info[key]
+            row[key+'0'] = remove_unprintable(card_info[key])
     return row
 
 def dictionaries_to_csv(dictionaries, output_file):
@@ -49,8 +50,11 @@ def dictionaries_to_csv(dictionaries, output_file):
 
         # Write each dictionary as a row in the CSV file
         for dictionary in dictionaries:
+            
             writer.writerow(dictionary)
 
+def remove_unprintable(str):
+    return str.replace('\u2212', '-')
 
 
 
