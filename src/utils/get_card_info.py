@@ -18,11 +18,8 @@ def get_card_info(card_name):
         print(f"An error occurred: {e}")
 
 # Example usage
-card_name = "Black Lotus"
-card_info = get_card_info(card_name)
-
-# Display relevant information about the card
-print("Card Name:", card_info["name"])
-print("Mana Cost:", card_info["mana_cost"])
-print("Type Line:", card_info["type_line"])
-print("Oracle Text:", card_info["oracle_text"])
+if __name__ == '__main__':
+    card_name = "Timely Hordemate"
+    card_info = get_card_info(card_name)
+    for key in card_info:
+        print(key+":", card_info[key])
