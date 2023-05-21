@@ -1,5 +1,11 @@
 import requests
-
+import csv
+import pandas
+cardFile = open("cards.csv", 'w')
+writer = csv.writer(cardFile)
+importantKeys = ['name', 'mana_cost', 'type_line', 'oracle_text']
+header = ['name', 'mana_cost', 'type_line', 'oracle_text', 'power', 'toughness', 
+'name2', 'mana_cost2', 'type_line2', 'oracle_text2', 'power2', 'toughness2']
 def get_card_info(card_name):
     # Replace spaces in the card name with '+' to form the query string
     query = card_name.replace(' ', '+')
@@ -19,7 +25,27 @@ def get_card_info(card_name):
 
 # Example usage
 if __name__ == '__main__':
-    card_name = "Timely Hordemate"
+    writer.writerow(header)
+
+    card_name = "Suspicious Stowaway // Seafaring Werewolf"
+
     card_info = get_card_info(card_name)
-    for key in card_info:
-        print(key+":", card_info[key])
+    row = []
+    if 'card_faces' in card_info:
+        for face in card_info['card_faces']:
+            for key in importantKeys:
+                row.append(face[key])
+            if 'power' in card_info:
+                row += [face['power'], face['toughness']]
+            else:
+                row += [None, None]
+    else:
+        for key in importantKeys:
+            row.append(card_info[key])
+        if 'power' in card_info:
+            row += [card_info['power'], card_info['toughness']]
+        else:
+            row += [None, None]
+        row += [None] * 6
+    writer.writerow(row)
+        
