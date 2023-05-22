@@ -3,7 +3,7 @@ import csv
 import string
 # import pandas
 import get_all_card_names
-cardFile = open("cards.csv", 'w')
+cardFile = open("./data/cards.csv", 'w')
 writer = csv.writer(cardFile, quoting=csv.QUOTE_ALL)
 importantKeys = ['name', 'mana_cost', 'type_line', 'oracle_text']
 header = ['name', 'mana_cost', 'type_line', 'oracle_text', 'power', 'toughness', 
@@ -60,7 +60,7 @@ def remove_unprintable(str):
 
 # Example usage
 if __name__ == '__main__':
-    cards_names = get_all_card_names.get_all_card_names()['data'][:100]
+    cards_names = get_all_card_names.get_all_card_names()
     cards = [get_card_info(c) for c in cards_names]
     cards = [flat(c) for c in cards]
     dictionaries_to_csv(cards, "data/sample.csv")

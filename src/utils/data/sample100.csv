@@ -1,0 +1,215 @@
+name0,mana_cost0,name1,oracle_text1,mana_cost1,oracle_text0,type_line0,type_line1
+"""Ach! Hans, Run!""",{2}{R}{R}{G}{G},,,,"At the beginning of your upkeep, you may say ""Ach! Hans, run! It's the . . ."" and the name of a creature card. If you do, search your library for a card with that name, put it onto the battlefield, then shuffle. That creature gains haste. Exile it at the beginning of the next end step.",Enchantment,
+"""Brims"" Barone, Midway Mobster",{3}{W}{B},,,,"When ""Brims"" Barone, Midway Mobster enters the battlefield, put a +1/+1 counter on each other creature you control that has a hat.
+""Brims"" Barone, Midway Mobster has menace as long as you're wearing a hat.",Legendary Creature — Human Rogue,
+"""Lifetime"" Pass Holder",{B},,,,"""Lifetime"" Pass Holder enters the battlefield tapped.
+When ""Lifetime"" Pass Holder dies, open an Attraction.
+Whenever you roll to visit your Attractions, if you roll a 6, you may return ""Lifetime"" Pass Holder from your graveyard to the battlefield.",Creature — Zombie Guest,
+"""Rumors of My Death . . .""",{2}{B},,,,"{3}{B}, Exile a permanent you control with a League of Dastardly Doom watermark: Return a permanent card with a League of Dastardly Doom watermark from your graveyard to the battlefield.",Enchantment,
++2 Mace,{1}{W},,,,"Equipped creature gets +2/+2.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",Artifact — Equipment,
+1996 World Champion,{W}{U}{B}{R}{G},,,,"Cannot be the target of spells or effects. World Champion has power and toughness equal to the life total of target opponent.
+{0}: Discard your hand to search your library for 1996 World Champion and reveal it to all players. Shuffle your library and put 1996 World Champion on top of it. Use this ability only at the beginning of your upkeep, and only if 1996 World Champion is in your library.",Summon — Legend,
+A Display of My Dark Power,,,,,"When you set this scheme in motion, until your next turn, whenever a player taps a land for mana, that player adds one mana of any type that land produced.",Scheme,
+A Good Day to Pie,{1}{W},,,,"Tap up to two target creatures.
+Whenever you put a name sticker on a creature, you may return A Good Day to Pie from your graveyard to your hand.",Instant,
+A Good Thing,{4}{W}{B},,,,"Spells and abilities you control can't destroy, exile, target, or cause you to sacrifice A Good Thing.
+At the beginning of your upkeep, double your life total. Then, if you have 1,000 or more life, you lose the game.",Enchantment,
+A Little Chat,{1}{U},,,,"Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell.)
+Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.",Instant,
+A Real Handful,{3}{B},,,,"As long as one or more hands are touching A Real Handful, it gets +2/+2.
+As long as two or more hands are touching A Real Handful, it has menace.
+As long as three or more hands are touching A Real Handful, it has lifelink.",Creature — Alien Child Guest,
+A Reckoning Approaches,,,,,"When you set this scheme in motion, look at the top six cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in any order.",Scheme,
+A-Acererak the Archlich,{2}{B},,,,"When Acererak the Archlich enters the battlefield, if you haven't completed Tomb of Annihilation, return Acererak the Archlich to its owner's hand and venture into the dungeon.
+Whenever Acererak the Archlich attacks, create a number of 2/2 black Zombie creature tokens equal to the number of opponents you have.",Legendary Creature — Zombie Wizard,
+A-Akki Ronin,{R},,,,"Whenever a Samurai or Warrior you control attacks alone, you may put a card from your hand on the bottom of your library. If you do, draw a card.",Creature — Goblin Samurai,
+A-Alrund's Epiphany,{5}{U}{U},,,,"Take an extra turn after this one. If this spell was foretold, create two 1/1 blue Bird creature tokens with flying. Exile Alrund's Epiphany.
+Foretell {5}{U}{U}",Sorcery,
+"A-Alrund, God of the Cosmos",{3}{U}{U},"A-Hakka, Whispering Raven","Flying
+Whenever Hakka, Whispering Raven deals combat damage to a player, return it to its owner's hand, then scry 2.",{1}{U},"Alrund gets +1/+1 for each card in your hand and each foretold card you own in exile.
+At the beginning of your end step, choose a card type, then reveal the top three cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.",Legendary Creature — God,Legendary Creature — Bird
+A-Ancestral Katana,{1}{W},,,,"Whenever a Samurai or Warrior you control attacks alone, you may pay {1}. When you do, attach Ancestral Katana to it.
+Equipped creature gets +2/+2 and has ""This creature has first strike as long as it's attacking.""
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",Artifact — Equipment,
+A-Ardent Dustspeaker,{2}{R},,,,"Whenever Ardent Dustspeaker attacks, you may put an instant or sorcery card from your graveyard on the bottom of your library. If you do, exile the top two cards of your library. You may play those cards this turn.",Creature — Minotaur Shaman,
+A-Armory Veteran,{1}{R},,,,"Ward—Pay 2 life.
+As long as Armory Veteran is equipped, it has menace. (It can't be blocked except by two or more creatures.)",Creature — Orc Warrior,
+A-Asari Captain,{1}{R}{W},,,,"Trample, haste
+Whenever a Samurai or Warrior you control attacks alone, it gets +1/+0 until end of turn for each Samurai or Warrior you control.",Creature — Human Samurai,
+"A-Baba Lysaga, Night Witch",{2}{B}{G},,,,"{T}, Sacrifice up to three permanents: If there were three or more card types among the sacrificed permanents, each opponent loses 3 life, you gain 3 life, and you draw three cards.",Legendary Creature — Human Warlock,
+A-Baleful Beholder,{4}{B}{B},,,,"When Baleful Beholder enters the battlefield, choose one —
+• Antimagic Cone — Each opponent sacrifices an enchantment.
+• Fear Ray — Creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)",Creature — Beholder,
+A-Base Camp,,,,,"{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a Cleric, Rogue, Warrior, or Wizard spell or to activate an ability of a Cleric, Rogue, Warrior, or Wizard.",Land,
+A-Binding Geist,{1}{U},A-Spectral Binding,"Enchant creature
+Enchanted creature gets -2/-0.
+If Spectral Binding would be put into a graveyard from anywhere, exile it instead.",,"Whenever Binding Geist attacks, target creature an opponent controls gets -2/-0 until your next turn.
+Disturb {U} (You may cast this card from your graveyard transformed for its disturb cost.)",Creature — Spirit,Enchantment — Aura
+A-Blessed Hippogriff,{3}{W},A-Tyr's Blessing,Target creature gains indestructible until end of turn. (Then exile this card. You may cast the creature later from exile.),{1}{W},"Flying
+Whenever Blessed Hippogriff attacks, target attacking creature without flying gains flying until end of turn.",Creature — Hippogriff,Instant — Adventure
+A-Blood Artist,{1}{B},,,,"Whenever Blood Artist or another creature dies, target opponent loses 1 life and you gain 1 life.",Creature — Vampire,
+A-Bretagard Stronghold,,,,,"Bretagard Stronghold enters the battlefield tapped.
+{T}: Add {G}.
+{G}{W}{W}, {T}, Sacrifice Bretagard Stronghold: Distribute two +1/+1 counters among one or two target creatures you control. They gain vigilance and lifelink until end of turn. Activate only as a sorcery.",Land,
+A-Brine Comber,{1}{W}{U},A-Brinebound Gift,"Enchant creature
+Whenever Brinebound Gift enters the battlefield or enchanted creature becomes the target of an Aura spell, create a 1/1 white Spirit creature token with flying.
+If Brinebound Gift would be put into a graveyard from anywhere, exile it instead.",,"Whenever Brine Comber enters the battlefield or becomes the target of an Aura spell, create a 1/1 white Spirit creature token with flying.
+Disturb {W}{U} (You may cast this card from your graveyard transformed for its disturb cost.)",Creature — Spirit,Enchantment — Aura
+A-Bruenor Battlehammer,{2}{R}{W},,,,"Each creature you control gets +2/+0 for each Equipment attached to it.
+{0}: Attach target Equipment you control to target creature you control. Activate only as a sorcery and only once each turn.",Legendary Creature — Dwarf Warrior,
+A-Buy Your Silence,{4}{W},,,,"Exile target nonland permanent. Its controller creates a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",Instant,
+A-Cabaretti Charm,{R}{G}{W},,,,"Choose one —
+• Cabaretti Charm deals damage equal to twice the number of creatures you control to target creature or planeswalker.
+• Creatures you control get +1/+1 and gain trample until end of turn.
+• Create two 1/1 green and white Citizen creature tokens.",Instant,
+A-Canopy Tactician,{3}{G},,,,"Other Elves you control get +1/+1.
+{T}: Add {G}{G}{G}.",Creature — Elf Warrior,
+A-Capenna Express,{3}{G},,,,"Sacrifice a Treasure: Capenna Express becomes an artifact creature until end of turn.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",Artifact — Vehicle,
+A-Carnelian Orb of Dragonkind,{2}{R},,,,"{T}: Add one mana of any color. If that mana is spent on a Dragon creature spell, it gains haste until end of turn.",Artifact,
+A-Case the Joint,{4}{U},,,,"Draw three cards, then look at the top card of each player's library.",Sorcery,
+A-Cauldron Familiar,{B},,,,"A-Cauldron Familiar can't block.
+When Cauldron Familiar enters the battlefield, each opponent loses 1 life and you gain 1 life.
+Sacrifice a Food: Return Cauldron Familiar from your graveyard to the battlefield.",Creature — Cat,
+A-Celebrity Fencer,{3}{W},,,,"Alliance — Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Celebrity Fencer.",Creature — Elf Druid,
+A-Celestial Regulator,{1}{W}{U},,,,"Flying
+When Celestial Regulator enters the battlefield, choose target creature you don't control and tap it. If you control a creature with a counter on it, the chosen creature doesn't untap during its controller's next untap step.",Creature — Angel Advisor,
+A-Circle of the Land Druid,{1}{G},,,,"When Circle of the Land Druid enters the battlefield, you may mill four cards. (You may put the top four cards of your library into your graveyard.)
+Natural Recovery — When Circle of the Land Druid dies, return target land card from your graveyard to your hand.",Creature — Gnome Druid,
+A-Circuit Mender,{3},,,,"When Circuit Mender enters the battlefield, you gain 3 life.
+When Circuit Mender leaves the battlefield, draw a card.",Artifact Creature — Insect,
+A-Civil Servant,{G}{W},,,,"Whenever Civil Servant attacks, you may tap another untapped Citizen you control. If you do, Civil Servant gets +1/+0 and gains trample until end of turn.",Creature — Cat Citizen,
+A-Cloister Gargoyle,{1}{W},,,,"When Cloister Gargoyle enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
+As long as you've completed a dungeon, Cloister Gargoyle gets +3/+0 and has flying.",Artifact Creature — Gargoyle,
+A-Cobbled Lancer,{U},,,,"As an additional cost to cast this spell, exile a creature card from your graveyard.
+{1}{U}, Exile Cobbled Lancer from your graveyard: Draw a card.",Creature — Zombie Horse,
+A-Cosmos Charger,{2}{U},,,,"Flash
+Flying
+Foretelling cards from your hand costs {1} less and can be done on any player's turn.
+Foretell {U}",Creature — Horse Spirit,
+A-Cosmos Elixir,{4},,,,"At the beginning of your end step, draw a card if your life total is greater than your starting life total. Otherwise, you gain 2 life and scry 1.",Artifact,
+A-Dawnbringer Cleric,{1}{W},,,,"When Dawnbringer Cleric enters the battlefield, choose one —
+• Cure Wounds — You gain 2 life.
+• Dispel Magic — Destroy target enchantment.
+• Gentle Repose — Exile target card from a graveyard.",Creature — Human Cleric,
+A-Deal Gone Bad,{3}{B},,,,Target creature gets -3/-3 until end of turn. Target player mills three cards. You gain 3 life.,Instant,
+A-Death-Priest of Myrkul,{2}{B}{B},,,,"Skeletons, Vampires, and Zombies you control get +1/+1.
+At the beginning of your end step, if a creature died this turn, create a 1/1 black Skeleton creature token.",Creature — Tiefling Cleric,
+A-Demilich,{U}{U}{U}{U},,,,"This spell costs {U} less to cast for each instant and sorcery spell you've cast this turn.
+Whenever Demilich attacks, exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy.
+You may cast Demilich from your graveyard by exiling four instant and/or sorcery cards from your graveyard in addition to paying its other costs.",Creature — Skeleton Wizard,
+A-Demon's Due,{3}{B},,,,Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.,Instant,
+A-Devoted Grafkeeper,{W}{U},A-Departed Soulkeeper,"Flying
+If Departed Soulkeeper would be put into a graveyard from anywhere, exile it instead.",,"When Devoted Grafkeeper enters the battlefield, mill four cards.
+Whenever you cast a spell from your graveyard, tap target creature you don't control.
+Disturb {1}{W}{U} (You may cast this card from your graveyard transformed for its disturb cost.)",Creature — Human Peasant,Creature — Spirit
+A-Dokuchi Silencer,{1}{B},,,,"Ninjutsu {1}{B} ({1}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Dokuchi Silencer deals combat damage to a player, you may discard a card. When you do, destroy target creature or planeswalker that player controls.",Creature — Human Ninja,
+"A-Dorothea, Vengeful Victim",{W}{U},A-Dorothea's Retribution,"Enchant creature
+Enchanted creature has ""Whenever this creature attacks, create a 4/4 white Spirit creature token with flying that's tapped and attacking. Sacrifice that token at end of combat.""
+If Dorothea's Retribution would be put into a graveyard from anywhere, exile it instead.",,"Flying
+When Dorothea, Vengeful Victim attacks or blocks, sacrifice it at end of combat.
+Disturb {W}{U} (You may cast this card from your graveyard transformed for its disturb cost.)",Legendary Creature — Spirit,Enchantment — Aura
+A-Dragon's Rage Channeler,{R},,,,"Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Delirium — As long as there are four or more card types among cards in your graveyard, Dragon's Rage Channeler gets +2/+0, has flying, and attacks each combat if able.",Creature — Human Shaman,
+A-Dragonborn Looter,{U},,,,"{1}, {T}: Draw a card, then discard a card.",Creature — Dragon Rogue,
+A-Dreamshackle Geist,{1}{U}{U},,,,"Flying
+At the beginning of combat on your turn, choose up to one —
+• Tap target creature.
+• Target creature doesn't untap during its controller's next untap step.",Creature — Spirit,
+A-Druid Class,{1}{G},,,,"(Gain the next level as a sorcery to add its ability.)
+Whenever a land enters the battlefield under your control, you gain 1 life.
+{2}{G}: Level 2
+You may play an additional land on each of your turns.
+{2}{G}: Level 3
+When this Class becomes level 3, target land you control becomes a creature with haste and ""This creature's power and toughness are each equal to the number of lands you control."" It's still a land.",Enchantment — Class,
+A-Druidic Ritual,{2}{G},,,,You may mill three cards. Then return up to two creature and/or land cards from your graveyard to your hand.,Sorcery,
+A-Dueling Coach,{3}{W},,,,"When Dueling Coach enters the battlefield, distribute two +1/+1 counters among one or two target creatures you control.
+{W}, {T}: Put a +1/+1 counter on each creature you control with a +1/+1 counter on it.",Creature — Human Monk,
+A-Dungeon Descent,,,,,"{T}: Add {C}.
+{1}, {T}, Tap an untapped legendary creature you control: Venture into the dungeon. Activate only as a sorcery.",Land,
+A-Dwarfhold Champion,{1}{W},,,,"Ward {1}
+As long as Dwarfhold Champion is equipped, it gets +0/+2.",Creature — Dwarf Warrior,
+A-Earthquake Dragon,{14}{G},,,,"This spell costs {X} less to cast, where X is the total mana value of Dragons you control not named Earthquake Dragon.
+Flying, trample
+{2}{G}, Sacrifice a land: Return A-Earthquake Dragon from your graveyard to your hand.",Creature — Elemental Dragon,
+A-Eiganjo Exemplar,{W},,,,"Whenever a Samurai or Warrior you control attacks alone, it gets +1/+1 until end of turn.",Enchantment Creature — Human Samurai,
+A-Elderfang Ritualist,{1}{B},,,,"When Elderfang Ritualist dies, you may exile it. If you do, return another target Elf or Tyvar card from your graveyard to your hand.",Creature — Elf Cleric,
+A-Elderleaf Mentor,{2}{G},,,,"When Elderleaf Mentor enters the battlefield, create a 1/1 green Elf Warrior creature token.",Creature — Elf Warrior,
+A-Ellywick Tumblestrum,{2}{G}{G},,,,"+1: Venture into the dungeon. (Enter the first room or advance to the next room.)
+-2: Look at the top six cards of your library. You may reveal a creature card from among them and put it into your hand. If it's legendary, you gain 3 life. Put the rest on the bottom of your library in a random order.
+-6: You get an emblem with ""Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed.""",Legendary Planeswalker — Ellywick,
+A-Elven Bow,{G},,,,"When Elven Bow enters the battlefield, you may pay {1}. If you do, create a 1/1 green Elf Warrior creature token, then attach Elven Bow to it.
+Equipped creature gets +1/+2 and has reach.
+Equip {3}",Artifact — Equipment,
+A-Emerald Dragon,{4}{G}{G},A-Dissonant Wave,Counter target activated or triggered ability from a noncreature source. (Then exile this card. You may cast the creature later from exile.),{2}{G},"Flying, ward {2}",Creature — Dragon,Instant — Adventure
+A-Exhibition Magician,{2}{R},,,,"When Exhibition Magician enters the battlefield, choose one —
+• Create a 1/1 green and white Citizen creature token.
+• Create a Treasure token.",Creature — Human Wizard,
+A-Eyes of the Beholder,{3}{B}{B},,,,Target creature gets -11/-11 until end of turn.,Instant,
+A-Falcon Abomination,{2}{U},,,,"Flash
+Flying
+When Falcon Abomination enters the battlefield, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)",Creature — Zombie Bird,
+A-Fall of the Impostor,{G}{W},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Put a +1/+1 counter on up to one target creature.
+III — Exile a creature with the greatest power among creatures target opponent controls.",Enchantment — Saga,
+A-Fates' Reversal,{B},,,,Return up to one target creature card from your graveyard to your hand. Venture into the dungeon. (Enter the first room or advance to the next room.),Sorcery,
+A-Find the Path,{2}{G},,,,"Enchant land
+When Find the Path enters the battlefield, venture into the dungeon.
+Enchanted land has ""{T}: Add two mana of any one color.""",Enchantment — Aura,
+A-Fires of Invention,{4}{R},,,,"You can cast spells only during your turn and you can cast no more than two spells each turn.
+You may cast spells with mana value less than or equal to the number of lands you control without paying their mana costs.",Enchantment,
+A-Forge Boss,{2}{B}{R},,,,"Whenever you sacrifice one or more other creatures, Forge Boss deals 2 damage to each opponent. This ability triggers only once each turn.",Creature — Human Warrior,
+A-Futurist Operative,{U},,,,"As long as Futurist Operative is tapped, it's a Human Citizen with base power and toughness 1/1 and can't be blocked.
+{2}{U}: Untap Futurist Operative.",Creature — Human Ninja,
+A-Glamorous Outlaw,{3}{U}{B}{R},,,,"When Glamorous Outlaw enters the battlefield, it deals 2 damage to each opponent and you gain 2 life. Scry 2.
+{1}, Exile Glamorous Outlaw from your hand: Target land gains ""{T}: Add {U}, {B}, or {R}"" until Glamorous Outlaw is cast from exile. You may cast Glamorous Outlaw for as long as it remains exiled.",Creature — Vampire Rogue,
+A-Glittermonger,{3}{G},,,,"{T}: Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",Creature — Elf Rogue,
+A-Gnarlid Colony,{1}{G},,,,"Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+If Gnarlid Colony was kicked, it enters the battlefield with four +1/+1 counters on it.
+Each creature you control with a +1/+1 counter on it has trample.",Creature — Beast,
+A-Goggles of Night,{1}{U},,,,"Whenever equipped creature deals combat damage to a player, scry 1, then draw a card. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",Artifact — Equipment,
+A-Goma Fada Vanguard,{1}{R},,,,"Whenever Goma Fada Vanguard attacks, target creature an opponent controls with power less than or equal to the number of Warriors and Equipment you control can't block this turn.",Creature — Human Warrior,
+A-Graveyard Shift,{4}{B},,,,"This spell has flash as long as there are five or more mana values among cards in your graveyard.
+Return target creature card from your graveyard to the battlefield with an additional +1/+1 counter on it.",Sorcery,
+A-Guildsworn Prowler,{1}{B},,,,"Deathtouch
+When Guildsworn Prowler dies, if it wasn't blocking, draw a card.",Creature — Tiefling Rogue Assassin,
+A-Gutter Skulker,{2}{U},A-Gutter Shortcut,"Enchant creature
+Enchanted creature gets +3/+0.
+Enchanted creature can't be blocked as long as it's attacking alone.
+If Gutter Shortcut would be put into a graveyard from anywhere, exile it instead.",,"Gutter Skulker can't be blocked as long as it's attacking alone.
+Disturb {2}{U} (You may cast this card from your graveyard transformed for its disturb cost.)",Creature — Spirit,Enchantment — Aura
+A-Hagra Constrictor,{1}{B},,,,"Hagra Constrictor enters the battlefield with two +1/+1 counters on it.
+Each creature you control with a +1/+1 counter on it has menace. (A creature with menace can't be blocked except by two or more creatures.)",Creature — Snake,
+A-Harald Unites the Elves,{2}{B}{G},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Mill five cards. You may put an Elf or Tyvar card from your graveyard onto the battlefield.
+II — Put a +1/+1 counter on each Elf you control.
+III — Whenever an Elf you control attacks this turn, target creature an opponent controls gets -1/-1 until end of turn.",Enchantment — Saga,
+"A-Harald, King of Skemfar",{1}{B}{G},,,,"Menace (This creature can't be blocked except by two or more creatures.)
+When Harald, King of Skemfar enters the battlefield, look at the top seven cards of your library. You may reveal an Elf, Warrior, or Tyvar card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",Legendary Creature — Elf Warrior,
+A-Haywire Mite,{1},,,,"When Haywire Mite dies, you gain 3 life.
+{G}, Sacrifice Haywire Mite: Exile target noncreature artifact or noncreature enchantment.",Artifact Creature — Insect,
+A-High-Rise Sawjack,{2}{G},,,,"Reach
+Whenever High-Rise Sawjack blocks a creature with flying, High-Rise Sawjack gets +3/+0 until end of turn.",Creature — Elf Citizen,
+A-Hobbling Zombie,{1}{B},,,,"Deathtouch
+When Hobbling Zombie dies, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)",Creature — Zombie,
+A-Hullbreaker Horror,{5}{U}{U},,,,"Flash
+Whenever you cast a spell, choose up to one —
+• Return target spell you don't control to its owner's hand.
+• Return target nonland permanent to its owner's hand.",Creature — Kraken Horror,
+A-Imperial Subduer,{1}{W},,,,"Whenever a Samurai or Warrior you control attacks alone, tap target creature you don't control.",Creature — Human Samurai,
+A-Incriminate,{B},,,,Choose two target creatures controlled by the same player. That player sacrifices one of them.,Sorcery,
+A-Iridescent Hornbeetle,{3}{G},,,,"At the beginning of your end step, create a 1/1 green Insect creature token for each +1/+1 counter you've put on creatures under your control this turn.",Creature — Insect,
+A-Jackhammer,{R},,,,"Equipped creature gets +2/+0.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",Artifact — Equipment,
+A-Jade Orb of Dragonkind,{2}{G},,,,"{T}: Add one mana of any color. When you spend this mana to cast a Dragon creature spell, it enters the battlefield with an additional +1/+1 counter on it and gains hexproof until your next turn.",Artifact,
+A-Kargan Intimidator,{1}{R},,,,"Cowards can't block Warriors.
+{1}: Choose one that hasn't been chosen this turn —
+• Target Warrior gets +1/+1 and gains trample until end of turn.
+• Target creature becomes a Coward until end of turn.",Creature — Human Warrior,
+A-Kargan Warleader,{1}{R}{W},,,,"Ward {1}
+Other Warriors you control get +1/+1 and have ward {1}.",Creature — Human Warrior,
+A-Kenku Artificer,{2}{U},,,,"Homunculus Servant — When Kenku Artificer enters the battlefield, put three +1/+1 counters on up to one target noncreature artifact. That artifact becomes a 0/0 Homunculus artifact creature with flying.",Creature — Bird Artificer,
