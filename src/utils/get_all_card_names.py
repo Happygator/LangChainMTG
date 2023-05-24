@@ -1,7 +1,7 @@
 import requests
 import scrython
 
-query = "legal:standard"
+query = "cube:modern"
 """
 def get_all_card_names():
     url = "https://api.scryfall.com/catalog/card-names"

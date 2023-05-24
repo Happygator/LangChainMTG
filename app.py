@@ -12,9 +12,7 @@ import os
 app = Flask(__name__)
 os.environ["OPENAI_API_KEY"] = api_key.api_key
 vectordb = Chroma(persist_directory="./data", embedding_function=OpenAIEmbeddings())
-
 retriever = vectordb.as_retriever()
-
 qa_chain = RetrievalQA.from_chain_type(llm=OpenAI(), chain_type="stuff", retriever=retriever)
 @app.route('/')
 def home():

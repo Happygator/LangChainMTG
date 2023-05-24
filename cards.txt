@@ -1,0 +1,57 @@
+Abbot of Keral Keep    {1}{R}
+Creature — Human Monk
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Abbot of Keral Keep enters the battlefield, exile the top card of your library. Until end of turn, you may play that card.
+2/1
+
+
+
+Abrade    {1}{R}
+Instant
+Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.
+
+
+
+Abrupt Decay    {B}{G}
+Instant
+This spell can't be countered.
+Destroy target nonland permanent with mana value 3 or less.
+
+
+
+Acidic Slime    {3}{G}{G}
+Creature — Ooze
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+2/2
+
+
+
+Adanto Vanguard    {1}{W}
+Creature — Vampire Soldier
+As long as Adanto Vanguard is attacking, it gets +2/+0.
+Pay 4 life: Adanto Vanguard gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+1/1
+
+
+
+Aethersphere Harvester    {3}
+Artifact — Vehicle
+Flying
+When Aethersphere Harvester enters the battlefield, you get {E}{E} (two energy counters).
+Pay {E}: Aethersphere Harvester gains lifelink until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
+3/5
+
+
+
+Ahn-Crop Crasher    {2}{R}
+Creature — Minotaur Warrior
+Haste
+You may exert Ahn-Crop Crasher as it attacks. When you do, target creature can't block this turn. (An exerted creature won't untap during your next untap step.)
+3/2
+
+
+

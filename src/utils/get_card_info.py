@@ -40,18 +40,16 @@ def flat(card_info):
 def dictionaries_to_csv(dictionaries, output_file):
     # Extract all unique keys from the dictionaries
     keys = set().union(*dictionaries)
-
+    csvfile = open(output_file, 'w', newline='')
     # Open the output CSV file in write mode
-    with open(output_file, 'w', newline='') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=keys)
-
-        # Write the header row
-        writer.writeheader()
-
-        # Write each dictionary as a row in the CSV file
-        for dictionary in dictionaries:
-            
-            writer.writerow(dictionary)
+    writer = csv.DictWriter(csvfile, fieldnames=keys)
+    # Write the header row
+    writer.writeheader()
+    # Write each dictionary as a row in the CSV file
+    for dictionary in dictionaries:
+        writer.writerow(dictionary)
+    csvfile.close()
+    
 
 def remove_unprintable(str):
     return str.replace('\u2212', '-')
