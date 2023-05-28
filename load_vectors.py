@@ -11,7 +11,7 @@ text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
 documents = text_splitter.split_documents(documents)
 vectordb = Chroma.from_documents(
   documents,
-  embedding=OpenAIEmbeddings(),
+  embedding=OpenAIEmbeddings(),  
   persist_directory='./data'
 )
 vectordb.persist()

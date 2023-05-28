@@ -22,8 +22,12 @@ def home():
 @app.route('/chat', methods=['POST'])
 def chat():
     user_message = request.form['user_message']
+    query = "The following .csv file is a list of Magic: the Gathering cards, with columns denoting name, mana cost, typeline, text box(oracle text), power/toughness, and other faces if applicable. With this database, answer the following question: \n\n"
+    query += user_message
+    
     # Add your chatbot logic here to generate a response
-    result = qa_chain({'query': user_message})
+    result = qa_chain({'query': query})
+    print(query)
     bot_response = result['result']
     return {'bot_response': bot_response}
 

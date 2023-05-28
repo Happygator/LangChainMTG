@@ -9,6 +9,7 @@ importantKeys = ['name', 'mana_cost', 'type_line', 'oracle_text']
 header = ['name', 'mana_cost', 'type_line', 'oracle_text', 'power', 'toughness', 
 'name2', 'mana_cost2', 'type_line2', 'oracle_text2', 'power2', 'toughness2']
 def get_card_info(card_name):
+    print("getting card info for " + card_name)
     # Replace spaces in the card name with '+' to form the query string
     query = card_name.replace(' ', '+')
     
@@ -32,9 +33,15 @@ def flat(card_info):
         for i,face in enumerate(card_info['card_faces']):
             for key in importantKeys:
                 row[key+str(i)] = remove_unprintable(face[key])
+            if 'power' in face:
+                row['power' + str(i)] = remove_unprintable(face['power'])
+                row['toughness' + str(i)] = remove_unprintable(face['toughness'])
     else:
         for key in importantKeys:
             row[key+'0'] = remove_unprintable(card_info[key])
+        if 'power' in card_info:
+            row['power0'] = remove_unprintable(card_info['power'])
+            row['toughness0'] = remove_unprintable(card_info['toughness'])
     return row
 
 def dictionaries_to_csv(dictionaries, output_file):
@@ -61,8 +68,7 @@ if __name__ == '__main__':
     cards_names = get_all_card_names.get_all_card_names()
     cards = [get_card_info(c) for c in cards_names]
     cards = [flat(c) for c in cards]
-    dictionaries_to_csv(cards, "data/sample.csv")
-
+    dictionaries_to_csv(cards, "./data/sample.csv")
 
     # writer.writerow(header)
 
